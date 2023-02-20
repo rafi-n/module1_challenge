@@ -23,6 +23,7 @@ Hive has received several amounts of funding from its inception (2017) up to the
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
 Cryptocurrencies in general, allow for low cost transactions and ease of access to services. Anyone around the world with internet access can participate in cryptocurrency markets. Hive provides a way for investors to gain access to the cryptomarket while not investing directly in cryptocurreny itself.
 
 Hive is committed to bolstering the cryptocurrency market by being a leading player in the mining and blockchain aspects of the industry. Hive wants to continue support for decentralized finance (DeFi) which removes barriers to other participants in the cryptocurrency market.
@@ -33,20 +34,27 @@ Hive does sell some of the crypto that it mines but otherwise does not provide a
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Crypto mining is power intensive and requires high efficiency to improve margins. Hive competes against various smaller crypto mining entities, even individuals but also larger entities like governments. Hive uses 100% renewable energy source for its mining activities to reduce its impact to the environment. They also use a combination of ASIC (application specific integrated circuits) and GPU (graphics processing unit) to mine cryptocurrencies. GPUs can be used to mine any cryptocurrencies whereas ASICs are custom built to support only one cryptocurrency. The ASIC provides better efficiency for the particular cryptocurrency it is mining.
+Crypto mining is power intensive and requires high efficiency to improve margins. Hive competes against various smaller crypto mining entities, even individuals but also larger entities like governments. Hive uses 100% renewable energy source for its mining activities to reduce its impact to the environment. They also use a combination of ASIC (application specific integrated circuits) and GPU (graphics processing unit) to mine cryptocurrencies. GPUs can be used to mine any cryptocurrencies whereas ASICs are custom built to support only one cryptocurrency. The ASIC provides better efficiency for the particular cryptocurrency it is mining. Using these ASICs, Hive created a mining machine called, "Hive BuzzMiner", which has greatly improved their ability to mine effectively.
+
+> We are able to operate our machines from 110 TH/s to 130 TH/s (Terahashes per second, 10<sup>12</sup>), allowing us to optimize the profitability of our fleet, by varying the power consumption and machine efficiency. Accordingly, our initial build of 5,800 HIVE BuzzMiners, can produce between 638 PH/s to 754 PH/s (Petahashes per second, 10<sup>15</sup>). [[hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-announces-commercial-deployment-of-the-hive-buzzminer-powered-by-the-intel-blockscale-asic/)]
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-Hive is utilizing various technologies for its mining activities. The main technology is blockchain which is a large distributed, indestructible ledger of all cryptocurrency transactions. Hive has invested a lot in hardware for their datacenters as well as the chips that power that hardware. Hive is one of four companies that has been selected to use Intel's "Blocksale" chip. [hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-provides-march-2022-production-and-intel-update/)
+Hive is utilizing various technologies for its mining activities. The main technology is blockchain which is a large distributed, indestructible ledger of all cryptocurrency transactions. Hive has invested a lot in hardware for their datacenters as well as the chips that power that hardware. Hive is one of four companies that has been selected to use Intel's "Blockscale" chip. [[hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-provides-march-2022-production-and-intel-update/)] As previously mentioned, they have developed their own highly efficient crypto mining machine.
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
-Hive is in the cryptocurrency and blockchain industry. They mine cryptocurrencies.
+
+Hive mines cryptocurrenciesHive is in the cryptocurrency and blockchain industry. They mine cryptocurrencies.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+One of the greatest innovations in the past 5-10 years have been in the semiconductor industry. GPUs and ASICs that perform vast amounts of calculations at high speed and efficiency have changed the game for crypto mining. Without these innovations, crypto mining would not be feasible. The mining process requires a lot energy to drive the machines and chips the do the actual mining. Green energy technology has helped miners run their business sustainably and not draw the attention of regulators.
+
 * What are the other major companies in this domain?
+
+Some main competitors are Canaan Inc, and Hut 8 Mining Corp. [Investopedia](https://www.investopedia.com/top-crypto-mining-stocks-5213809)
 
 ## Results
 
@@ -59,6 +67,8 @@ Hive is in the cryptocurrency and blockchain industry. They mine cryptocurrencie
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Hive has invested a lot of its resources into building crypto mining facilities that use state of the art machines and green energy. As regulators around the world are increasingly concerned with sustainability, Hive can lease some of their resources to other companies or individuals. Hive would levy a fee for this service that would compensate them for all their costs plus some profit margin.
 
 * Why do you think that offering this product or service would benefit the company?
 
