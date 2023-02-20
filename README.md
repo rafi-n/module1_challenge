@@ -46,21 +46,25 @@ Hive is utilizing various technologies for its mining activities. The main techn
 
 * What domain of the financial industry is the company in?
 
-Hive mines cryptocurrenciesHive is in the cryptocurrency and blockchain industry. They mine cryptocurrencies.
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-One of the greatest innovations in the past 5-10 years have been in the semiconductor industry. GPUs and ASICs that perform vast amounts of calculations at high speed and efficiency have changed the game for crypto mining. Without these innovations, crypto mining would not be feasible. The mining process requires a lot energy to drive the machines and chips the do the actual mining. Green energy technology has helped miners run their business sustainably and not draw the attention of regulators.
-
-* What are the other major companies in this domain?
-
-Some main competitors are Canaan Inc, and Hut 8 Mining Corp. [Investopedia](https://www.investopedia.com/top-crypto-mining-stocks-5213809)
+Hive operates in the cryptocurrency mining industry which has seen some major developments over the last 5-10 years. One of the greatest innovations during those years have been in the semiconductor industry. GPUs and ASICs that perform vast amounts of calculations at high speed and efficiency have changed the game for crypto mining. Without these innovations, crypto mining would not be feasible. The mining process requires a lot energy to drive the machines and chips the do the actual mining. Green energy technology has helped miners run their business sustainably and not draw the attention of regulators. The industry has attracted a lot of attention all over the world and there are more players in it today. Notably, Hive's main competitors are Riot Blockchain, and Hut 8 Mining Corp. [Investopedia](https://www.investopedia.com/top-crypto-mining-stocks-5213809)
 
 ## Results
 
 * What has been the business impact of this company so far?
 
+Hive has operations around the world including, Iceland, Sweden and its headquarters in Canada. They've utilized state of the art techology to mine crypto using renewable energy sources.
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+One of the best metrics for crypto mining is hashes per second (H/s). When crypto is created, it has to be written to the blockchain through solving complicated mathematical problems to verify hashes. So the amount of crypto mined is directly associated with how many hashes are created in a given time. Additionally, the energy consumption in megawatts (MW) will add to their costs and should be reduced.
+
+|Company|Hash Rate (EH/s)|Energy Consumption (MW)|
+|-------|:--------------:|:---------------------:|
+|Hive   |2.68|128|
+|Riot   |4.6|136|
+|Hut 8  |2.5|109|
+
+One of the best metrics for crypto mining is hashes per second (H/s). When crypto is created, it has to be written to the blockchain through solving complicated mathematical problems to verify hashes. So the amount of crypto mined is directly associated with how many hashes are created in a given time. 
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -68,13 +72,23 @@ Some main competitors are Canaan Inc, and Hut 8 Mining Corp. [Investopedia](http
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-Hive has invested a lot of its resources into building crypto mining facilities that use state of the art machines and green energy. As regulators around the world are increasingly concerned with sustainability, Hive can lease some of their resources to other companies or individuals. Hive would levy a fee for this service that would compensate them for all their costs plus some profit margin.
+Hive has invested a lot of its resources into building crypto mining facilities that use state of the art machines and green energy. As regulators around the world are increasingly concerned with sustainability, Hive can lease some of their resources to other companies or individuals. Hive would levy a fee for this service that would compensate them for all their costs plus some profit margin. This would be a cloud-based approach.
+
+Hive stores all of its cryptocurrency in cold storage meaning that it is not connected to the internet. They could offer to store crypto for customers like a bank safe deposit box for a fee.
 
 * Why do you think that offering this product or service would benefit the company?
 
+Hive's curreny strategy of mining and hoarding or selling cryptocurrencies is great as long as the value of the cryptocurrency remains strong. By allowing other participants to mine and accumulate cryptocurrencies, they may encourage the use and demand for it, thus increasing its value.
+
+Offering cold storage for crypto for a fee, could add another revenue stream but it does create issues with physical security of the cold wallets.
+
 * What technologies would this additional product or service utilize?
 
+Leasing out machines to customers would not require any additional technology since all transactions are written into the blockchain. Hive would only have to make sure that their machines are only leased out for the duration of the contract and make sure that they are always functional. However, opening their networks to outsiders would require stronger cybersecurity since there may be some malicious users who may compromise their systems.
+
 * Why are these technologies appropriate for your solution?
+
+The blockchain is where all transactions are recorded and is trusted by all participants. 
 
 [yfin]: <https://ca.finance.yahoo.com/quote/HIVE.V/profile?p=HIVE.V>
 [newswire]: <https://www.newswire.ca/news-releases/hive-blockchain-currently-leeta-gold-announces-strategic-partnership-with-leading-cryptocurrency-miner-genesis-mining-and-acquisition-of-data-centre-in-iceland-628387573.html>
